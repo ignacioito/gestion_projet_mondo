@@ -29,4 +29,4 @@ William Mauricio Guerrero.
 
 João Gustavo Salvador. 
 
-![Mondo Logo](/img/logo.png)
+![Mondo Logo](/img/logoFontLeft.png)
