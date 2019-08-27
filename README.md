@@ -28,3 +28,5 @@ Luiz Gustavo Guimarães.
 William Mauricio Guerrero. 
 
 João Gustavo Salvador. 
+
+![Mondo Logo](/img/logo.png)
