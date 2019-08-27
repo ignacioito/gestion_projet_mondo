@@ -1,7 +1,10 @@
 # Gestion Projet II
 # Mondo
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even
+
+# Application Web 
+
+L’application devrait être disponible sous la forme d’une **site web**. Le département de marketing de la province du Québec serait responsable de promouvoir le site dans les réseaux sociaux, les sites que gouvernement pense être pertinent, radio et télévision. 
 
 ###### Professeur : Mamadou Bella Diallo 
 
